@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 Dev work 
-=======
-Dev work 2
->>>>>>> 2d35d89 (New change)
+Hello
